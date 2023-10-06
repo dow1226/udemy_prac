@@ -1,4 +1,5 @@
-./day32_smtp/
+day37_Tracking/
+day32_smtp/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
